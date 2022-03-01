@@ -1,0 +1,18 @@
+.cards {
+    transition: all 0.2s ease;
+    border-radius: 15px;
+}
+
+.cards:hover {
+    box-shadow: 0 5px 15px #e9ecef;
+    transform: scale(1.06)
+}
+
+.ar {
+    transition: all 0.2s ease;
+    margin-left: 20px;
+}
+
+.ar:hover {
+    transform: scale(1.3)
+}
